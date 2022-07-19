@@ -1,0 +1,104 @@
+body {
+	color: #000000;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+	
+#logo {
+		margin-top: 30px;
+		margin-left: 20px;
+	}
+	
+	header {
+	position: relative;
+}
+
+.menu-opcoes ul li{
+	display: inline;
+	margin-left: 20px;
+}
+	
+	.menu-opcoes {
+	position: absolute;
+	bottom: 41px;
+	right: 80px;
+}
+	
+	#titulo {
+		position: relative;
+		right: 190px;
+		margin-top: 70px;
+		font-family: monospace;
+		float: right;
+	}
+	
+	#texto-inicio {
+		margin-top: 50px;
+		padding: 100px;
+	}
+	
+	#modelos {
+		float: left;
+		margin-right: 100px;
+	}
+	
+	#marca-titulo {
+		margin-left: 550px;
+		font-family: monospace;
+		margin-top: 100px;
+		clear: left;
+	}
+	
+	#marca {
+		margin-left: 350px;
+		margin-right: 350px;
+	}
+	
+	#polo {
+		margin-top: 150px;
+		margin-left: 40px;
+		font-family: monospace;
+	}
+	
+	#modacenter {
+		float: right;
+		margin-top: 70px;
+		margin-left: 40px;
+	}
+	
+	#polo-texto {
+		margin-left: 30px;
+	}
+	
+	#rodape img{
+	margin-right:30px;
+	vertical-align:middle;
+	width: 250px;
+}
+
+#rodape {
+	color: #777;
+	margin: 30px 0;
+	padding: 30px 0;
+}
+
+header {
+	position: relative;
+}
+
+.sacola {
+	background-image: url(../img/sacola.png);
+	background-repeat: no-repeat;
+	background-position: top right;
+	
+	font-size: 14px;
+	padding-right: 35px;
+	text-align: right;
+	width: 140px;
+}
+
+.sacola {
+	padding-top: 8px; 
+	position: absolute;
+	top: 0;
+	right: 60px;
+}

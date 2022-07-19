@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title> Sobre a Bueno Store </title>
+		
+		<link rel="stylesheet" href="css/sobre.css">
+	</head>
+	
+	<body>
+		<header>
+			<figure id="logo">
+				<img src="img/logobs.png" alt="Logo da Bueno Store">
+			</figure>
+		
+			<nav class="menu-opcoes">
+				<ul>
+					<li><a href="#">Sua conta</a></li>
+					<li><a href="#">Sua conta</a></li>
+					<li><a href="#">Sua conta</a></li>
+					<li><a href="#">Sua conta</a></li>
+					<li><a href="#">Ajuda</a></li>
+				</ul>
+			</nav>
+		</header>
+		
+		<h1 id="titulo">SOBRE A BUENO STORE</h1>
+		
+		<figure id="modelos">
+			<img src="img/modelos.png" alt="Quadro com vários modelos"
+			<figcaption>  </figcaption>
+		</figure>
+		
+		<p id="texto-inicio">
+		Criada em 2021, em Caruaru, localizada em uma região com uma forte cultura têxtil. A Bueno Store como entidade privada 
+		oferece um amplo mix de roupas e acessórios no gênero masculino, com sua produção inteiramente local(Caruaru e região). 
+		Com foco na qualidade dos produtos e preços justos acompanhamos as mais novas tendências no mundo da moda masculina, trazendo peças cheias de estilo
+		e principalmente conforto. Levando em considerações questões importantes de consciência (política, social, ambiental) e representatividade.
+		</p>
+		
+		<h1 id="marca-titulo"> A MARCA</h1>
+		
+		<p id="marca">
+         A Bueno Store é uma marca fictícia sem algum registro e qualquer publicação em meio comercial. Com o principal intuito de ser apresentada como portfólio. 
+		 Criado por Esley Bueno, estudante de programação de sistemas do curso sup. tecnólogo Análise e desenvolvimento de sistemas pela Unifavip Wyden na cidade de caruaru, pernambuco.
+		</p>
+		
+		<figure id="modacenter"> 
+			<img src="img/modacenter.jpg" alt="Foto da moda center"
+			<figcaption> </figcaption>
+		</figure>
+		
+		<h1 id="polo">Polo têxtil do agreste</h1>
+		<p id="polo-texto">
+		Considerado o maior polo de confecções do Nordeste, o Polo de Confecções do Agreste Pernambucano é um aglomerado de iniciativas produtivas e comerciais relacionadas ao setor de confecções. 
+		Juntas Caruaru, Santa Cruz do Capibaribe e Toritama são as principais cidades inseridas no Polo. 
+		A origem do que hoje é denominado por Polo de Confecções do Agreste resultou da iniciativa de homens e mulheres situados em áreas preponderantemente rurais do Estado. 
+		Foi nos anos 1950/1960 que as tradicionais feiras da sulanca começaram a ganhar força no Agreste. Ainda hoje, o termo sulanca designa, de certa forma, 
+		uma depreciação das confecções locais, caracterizando-as como de baixo valor aquisitivo. A palavra tem origem helanca (tipo de tecido vindo do sul do país). 
+		</p>
+		
+		<div id="rodape">
+		<img src="img/logobs.png" alt="Logo da Mirror Fashion">
+		
+		
+	</div>
+		
+	
+	</body>
+</html>
